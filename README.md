@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yiyiyang81
-- 👀 I’m interested in real world application of data science, software development, AWS
-- 🌱 I’m currently learning web scrapping with Selenium for my resarch project
+- 👀 I’m interested in real world application of data science and software development
+- 🌱 I’m currently learning React for my school project
 - 📫 To reach me: yiyi.yang3@mail.mcgill.ca
 
 <!---
